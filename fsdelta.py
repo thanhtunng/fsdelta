@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #
 # Copyright © 2021 Toshiba corporation
+# Maintainer: Vu Thanh Tung (thanhtungvu.hust@gmail.com)
 #
 
 import argparse
